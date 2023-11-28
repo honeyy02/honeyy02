@@ -1,3 +1,4 @@
+![logo](https://github.com/honeyy02/honeyy02/blob/main/banner.jpg)
 <h1 align="center">Hi 👋, I'm Honey Sharma</h1>
 <h3 align="center">Aspiring software developer with a passion for coding excellence and a commitment to continuous learning.</h3>
 
