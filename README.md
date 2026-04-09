@@ -1,29 +1,70 @@
 ![logo](https://github.com/honeyy02/honeyy02/blob/main/banner.jpg)
+
 <h1 align="center">Hi 👋, I'm Honey Sharma</h1>
-<h3 align="center">Aspiring software developer with a passion for coding excellence and a commitment to continuous learning.</h3>
+<h3 align="center">DevOps Engineer | 2+ Years Experience in AWS, CI/CD & Automation 🚀</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=honeyy02&label=Profile%20views&color=0e75b6&style=flat" alt="honeyy02" /> </p>
-
-- 👨‍💻 All of my projects are available at [https://honeyy02.github.io/Portfolio/](https://honeyy02.github.io/Portfolio/)
-
-- 📫 How to reach me **honeysharma0224@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/1PKlFQjKQprezGhJIO1Cu-__c3Ebnkfrf](https://drive.google.com/drive/folders/1PKlFQjKQprezGhJIO1Cu-__c3Ebnkfrf)
-
-- ⚡ Fun fact **That '=' != '=='**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/honeyy02/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/honeyy02/" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/honey_02" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="honey_02" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/honeysharma20095" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="honeysharma20095" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/honeyy02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="honeyy02" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/honeyy02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="honeyy02" height="30" width="40" /></a>
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=honeyy02&label=Profile%20views&color=0e75b6&style=flat" alt="honeyy02" /> 
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=honeyy02&show_icons=true&locale=en&layout=compact" alt="honeyy02" /></p>
+### 👨‍💻 About Me
+- 🔧 DevOps Engineer with **2+ years of hands-on experience**
+- ☁️ Working on **AWS & Azure cloud infrastructure**
+- 🔄 Building and maintaining **CI/CD pipelines (Jenkins, GitHub Actions)**
+- 🐳 Experience with **Docker & containerized deployments**
+- 📊 Worked on **Monitoring & Logging (ELK Stack)**
+- ⚡ Passionate about **automation & scalable systems**
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=honeyy02&show_icons=true&locale=en" alt="honeyy02" /></p>
+---
+
+### 🚀 Projects
+- 🔹 CI/CD Pipeline using Jenkins  
+- 🔹 Dockerized Applications  
+- 🔹 ELK Stack Monitoring Setup  
+- 🔹 DevOps Automation Scripts  
+
+👉 Portfolio: https://honeyy02.github.io/Portfolio/
+
+---
+
+### 📫 Contact Me
+- 📧 Email: **honeysharma0224@gmail.com**
+- 🔗 LinkedIn: https://www.linkedin.com/in/honeyy02/
+
+---
+
+### 🤝 Connect with me
+<p align="left">
+<a href="https://www.linkedin.com/in/honeyy02/" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+</a>
+<a href="https://www.codechef.com/users/honey_02" target="blank">
+<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" height="30" width="40" />
+</a>
+<a href="https://www.hackerrank.com/honeysharma20095" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="30" width="40" />
+</a>
+<a href="https://www.leetcode.com/honeyy02" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" />
+</a>
+</p>
+
+---
+
+### 🛠️ Tech Stack
+<p align="left"> 
+<img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,jenkins,terraform,ansible,linux,bash,git,github" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+<p>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=honeyy02&show_icons=true&locale=en&layout=compact" alt="honeyy02" />
+</p>
+
+<p>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=honeyy02&show_icons=true&locale=en" alt="honeyy02" />
+</p>
