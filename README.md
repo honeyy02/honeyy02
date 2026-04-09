@@ -1,4 +1,4 @@
-![logo](https://github.com/honeyy02/honeyy02/blob/main/banner.jpg)
+![logo](https://github.com/honeyy02/honeyy02/blob/main/banner01.png)
 
 <h1 align="center">Hi 👋, I'm Honey Sharma</h1>
 <h3 align="center">DevOps Engineer | 2+ Years Experience in AWS, CI/CD & Automation 🚀</h3>
